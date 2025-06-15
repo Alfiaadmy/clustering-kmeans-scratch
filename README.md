@@ -12,5 +12,5 @@ Dataset digunakan dari [UCI ML Repository - Wholesale Customers](https://archive
 
 ## ▶️ Jalankan Notebook
 Klik link berikut untuk menjalankan langsung di Google Colab:
-👉 [Buka di Google Colab](https://colab.research.google.com/github/username/repo-name/blob/main/nama_file.ipynb)
+👉 [Buka di Google Colab](https://colab.research.google.com/drive/1x2_t6q19dhpwX8F7JT0zDuexlVDZPjZr?usp=sharing)
 
